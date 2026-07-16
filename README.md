@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Kumar S</h1>
-<h3 align="center">Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast from India</h3>
+<h3 align="center">Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | Vibe Coding from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,10 +13,10 @@
 
 - 🎓 Computer Science Engineering Student
 - 🌱 Currently learning **Python, Data Analytics, Power BI, Excel, Pandas, and Generative AI**
-- 💻 Strong foundation in **HTML, CSS, JavaScript, React, SQL, and Git**
+- 💻 Strong foundation in **HTML, CSS, SQL, Git, Antigravity, Cursor, Claude Code**
 - 📊 Building **Data Analytics and Dashboard Projects**
 - 🧠 Practicing **SQL on HackerRank** and improving problem-solving skills
-- 🚀 Interested in **Data Analytics, AI, Front-End Development, and Business Intelligence**
+- 🚀 Interested in **Data Analytics, AI, Front-End Development, and Business Intelligence, Vibe Coding**
 - 📫 Reach me at **vignesh2906vi@gmail.com**
 - ⚡ Fun Fact: **I enjoy turning raw data into meaningful insights and building user-friendly applications.**
 

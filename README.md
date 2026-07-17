@@ -111,7 +111,9 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Vigneshkumar-29&show_icons=true&theme=tokyonight"/>
+
 <br><br>
 
 <!-- Fixed: old herokuapp.com domain was retired when Heroku ended free hosting in 2022.
@@ -119,17 +121,23 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
      If this ever goes down again, a reliable community mirror is:
      https://github-readme-streak-stats-eight.vercel.app/ -->
 <img src="https://streak-stats.demolab.com/?user=Vigneshkumar-29&theme=tokyonight"/>
+
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshkumar-29&layout=compact&theme=tokyonight"/>
+
 </p>
+
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Vigneshkumar-29&theme=tokyonight&margin-w=15&margin-h=15"/>
+
 </p>
+
 ---
 
 # 🎯 2026 Goals

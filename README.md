@@ -112,23 +112,17 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vigneshkumar-29&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vigneshkumar-29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<!-- Fixed: old herokuapp.com domain was retired when Heroku ended free hosting in 2022.
-     Official replacement host is streak-stats.demolab.com.
-     If this ever goes down again, a reliable community mirror is:
-     https://github-readme-streak-stats-eight.vercel.app/ -->
-<img src="https://streak-stats.demolab.com/?user=Vigneshkumar-29&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshkumar-29&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshkumar-29&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vigneshkumar-29&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # 🏆 GitHub Trophies
 

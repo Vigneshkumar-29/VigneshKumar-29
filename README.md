@@ -100,15 +100,9 @@ Aspiring Data Analyst | Python & SQL Developer | Gen AI Developer | Machine Lear
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action first. Until then, keep this section commented.
-
-```html
-<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Vigneshkumar-29/Vigneshkumar-29/output/github-contribution-grid-snake-dark.svg"/>
 </p>
--->
-```
 
 ---
 

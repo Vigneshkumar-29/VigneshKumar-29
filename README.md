@@ -44,39 +44,27 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 </tr>
 </table>
 
----
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
-
-<a href="https://twitter.com/vignesh_mk4" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
-</a>
-
-<a href="https://instagram.com/vigneshmk4" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
+# ⚡Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,oracle,html,css,git,github,vscode,powerbi,excel&perline=6" />
+  <!-- Group 1: Supported skillicons arranged 7 per line -->
+  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,git,github,vscode&perline=7" />
+  
+  <br><br>
+  
+  <!-- Group 2: Custom icons sized to 48px to match the above block -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48"/>
 </div>
 
 ---
 
-# 🤖 AI Tools
-
-<p align="left">
+# 👾 AI Tools
+<p align="center">
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
@@ -85,6 +73,16 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 <img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FreeBuff-000000?style=for-the-badge&logo=freebuff&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Manus-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kimi-5C5C5C?style=for-the-badge"/>
 
 </p>
 
@@ -128,12 +126,13 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Power+BI+Enthusiast;SQL+Problem+Solver;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Power+BI+Enthusiast;SQL+Problem+Solver;Machine+Learning+Developer;Gen+AI+developer;+Always+Learning+New+Technologies"/>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+</div>
 </p>
 
 ---
@@ -159,12 +158,24 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 - 📊 Power BI
 - 🐼 Pandas
 - 🤖 Generative AI
+- 💻 Machine Learning
 - ⚛ React
 
 ---
 
-# 💡 Quote
+# 📫 Connect With Me
+<div align="center">
 
-> **"Code. Learn. Build. Improve. Repeat." 🚀**
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
----
+<a href="https://twitter.com/vignesh_mk4" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+
+<a href="https://instagram.com/vigneshmk4" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+
+</div>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vignesh Kumar S</h1>
 
-<h3 align="center">
-Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learner from India 🇮🇳
-</h3>
+<h2 align="center">
+Aspiring Data Analyst | Python & SQL Developer | Gen AI Developer | Machine Learning Engineer
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshkumar-29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>

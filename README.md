@@ -126,7 +126,7 @@ Aspiring Data Analyst | Python & SQL Developer | Gen AI Developer | Machine Lear
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Power+BI+Enthusiast;SQL+Problem+Solver;Machine+Learning+Developer;Gen+AI+developer;+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Power+BI+Enthusiast;SQL+Problem+Solver;Machine+Learning+Engineer ;Gen+AI+developer;+Always+Learning+New+Technologies"/>
 
 <br><br>
 

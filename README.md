@@ -6,6 +6,12 @@ Aspiring Data Analyst | Front-End Developer | Python & SQL Enthusiast | AI Learn
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vigneshkumar-29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <br>
+
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
 </p>
 
 ---

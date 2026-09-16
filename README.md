@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Kumar S</h1>
 
 <h2 align="center">
-Aspiring Data Analyst | Python & SQL Developer | Gen AI Developer | Machine Learning Engineer
+Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, LLMs.
 </h2>
 
 <p align="center">

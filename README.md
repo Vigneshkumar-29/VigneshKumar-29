@@ -160,7 +160,7 @@ Aspiring Data Analyst | Python & SQL Developer | Gen AI Developer | Machine Lear
 # 📫 Connect With Me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/" target="_blank">
+<a href="https://www.linkedin.com/in/vignesh-kumar29062004/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 

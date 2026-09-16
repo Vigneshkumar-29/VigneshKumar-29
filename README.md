@@ -164,12 +164,9 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://twitter.com/vignesh_mk4" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+<a href="https://vigneshkumars.framer.website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="https://instagram.com/vigneshmk4" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
-</a>
 
 </div>

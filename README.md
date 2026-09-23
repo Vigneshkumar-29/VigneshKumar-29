@@ -21,17 +21,20 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 
 <td width="60%" valign="top">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science Engineering Student
-- 🌱 Currently learning **Python, Data Analytics, Power BI, Excel, Pandas & Generative AI**
-- 💻 Skilled in **HTML, CSS, JavaScript, SQL, React, Git & GitHub**
-- 📊 Building **Data Analytics & Dashboard Projects**
-- 🧠 Practicing **SQL on HackerRank** to strengthen problem-solving skills
-- 🤖 Exploring **Artificial Intelligence & Business Intelligence**
-- 🚀 Passionate about **Data Analytics, Front-End Development & Vibe Coding**
-- 📫 Reach me at **vignesh2906vi@gmail.com**
-- ⚡ Fun Fact: **I enjoy transforming raw data into meaningful insights.**
+🤖 Gen AI & ML · 🐍 Python · 💻 Data Analysist
+
+I'm a **Computer Science graduate** focused on **Generative AI and Machine Learning**.  
+I build projects such as **RAG-based document Q&A systems and chatbots** using Python, FAISS, Qdrant, and Ollama.  
+I also work on **Machine Learning models**, including regression, to strengthen my core skills.
+
+### What I've Done
+
+- 🚀 Worked in a startup and helped build a web application under a tight deadline
+- 🤝 Use **GitHub Copilot and Claude** for coding, debugging, and problem-solving
+- 🛠️ Hands-on experience with **Python, APIs, testing, and real-world applications**
+
 
 </td>
 

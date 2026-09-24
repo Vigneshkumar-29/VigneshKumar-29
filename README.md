@@ -23,18 +23,15 @@ Data Analyst • ML Engineer • Generative AI Developer | Python, SQL, Pandas, 
 
 ## About Me
 
-🤖 Gen AI & ML · 🐍 Python · 💻 Data Analysist
+Machine Learning & Generative AI enthusiast — I like turning models and prompts into things that actually work.
 
-I'm a **Computer Science graduate** focused on **Generative AI and Machine Learning**.  
-I build projects such as **RAG-based document Q&A systems and chatbots** using Python, FAISS, Qdrant, and Ollama.  
-I also work on **Machine Learning models**, including regression, to strengthen my core skills.
+Most of what I build lives in the Gen AI / ML space: RAG pipelines, document Q&A chatbots, and retrieval systems using Python, FAISS, Qdrant, and Ollama. I also spend time on the fundamentals — regression models, evaluation metrics — because that's what makes the "AI" part actually reliable.
 
-### What I've Done
+- Worked in a startup environment and contributed to developing a web application within a short timeframe
+- Use GitHub Copilot and Claude regularly to code faster, debug smarter, and ship sooner
+- Comfortable with Python end-to-end — APIs, testing, and real application code, not just notebooks
 
-- 🚀 Worked in a startup and helped build a web application under a tight deadline
-- 🤝 Use **GitHub Copilot and Claude** for coding, debugging, and problem-solving
-- 🛠️ Hands-on experience with **Python, APIs, testing, and real-world applications**
-
+Beyond that, I keep my SQL sharp solving problems on HackerRank, and I build data analytics dashboards in Power BI and Excel when a project calls for it — sales analysis, workforce data, that kind of thing.
 
 </td>
 

@@ -86,8 +86,11 @@ Beyond that, I keep my SQL sharp solving problems on HackerRank, and I build dat
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Vignesh's GitHub stats" height="165" />
-<img src="./profile/coding.gif" alt="Coding animation" height="165" />
+<img src="./profile/stats.svg?v=4" alt="Vignesh's GitHub stats" height="195" />
+<img src="./profile/coding.gif?v=4" alt="Coding animation" height="195" />
+
+<br>
+
 <img src="./profile/top-langs.svg" alt="Vignesh's most used languages" height="165" />
 
 <br>

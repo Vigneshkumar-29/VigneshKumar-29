@@ -1,7 +1,7 @@
 <svg
-  width="467"
+  width="300"
   height="195"
-  viewBox="0 0 467 195"
+  viewBox="0 0 300 195"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
@@ -33,26 +33,6 @@
       fill: #bf91f3;
       display: block;
     }
-    .code-line {
-      transform-box: fill-box;
-      transform-origin: left center;
-      transform: scaleX(0);
-      animation: typeIn 0.6s ease-out forwards;
-    }
-    .l1 { animation-delay: 0.3s; }
-    .l2 { animation-delay: 0.9s; }
-    .l3 { animation-delay: 1.5s; }
-    .l4 { animation-delay: 2.1s; }
-    .l5 { animation-delay: 2.7s; }
-    .cursor {
-      animation: blink 1s step-end infinite;
-    }
-    @keyframes typeIn {
-      to { transform: scaleX(1); }
-    }
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
     @keyframes fadeInAnimation {
       from { opacity: 0; }
       to { opacity: 1; }
@@ -67,7 +47,7 @@
     rx="4.5"
     height="99%"
     stroke="#e4e2e2"
-    width="466"
+    width="299"
     fill="#1a1b27"
     stroke-opacity="0"
   />
@@ -127,6 +107,4 @@
       </g>
     </svg>
   </g>
-
-  
 </svg>
